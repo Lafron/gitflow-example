@@ -9,4 +9,7 @@ else{
     console.log("You're not adults");
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> user-access
