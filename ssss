@@ -1,0 +1,29 @@
+[33mcommit 4a307f16ea74213bc98b60dc75e30a7361967b1b[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Author: Epshtein Dmitry <letuver@yahoo.com>
+Date:   Sat Mar 5 20:27:51 2022 +0200
+
+    develpop header
+
+[33mcommit d2c2005994bd72e46ac36064b42a8dfe88e31ac1[m[33m ([m[1;32mlesson3[m[33m)[m
+Author: Epshtein Dmitry <letuver@yahoo.com>
+Date:   Thu Mar 3 23:37:06 2022 +0200
+
+    test push
+
+[33mcommit c3f614a53d9d46d909e2b8a1c31e6ffc6ae9c8df[m
+Author: Epshtein Dmitry <letuver@yahoo.com>
+Date:   Thu Mar 3 23:28:24 2022 +0200
+
+    add gitignore
+
+[33mcommit 05def028a2dce81a1c311e24561bcf2abece883a[m
+Author: Epshtein Dmitry <letuver@yahoo.com>
+Date:   Thu Mar 3 22:42:22 2022 +0200
+
+    add algorithm push data on github
+
+[33mcommit 34ab2f82d60bbfc58ea7d1bb1ea53d54e96942e9[m
+Author: Epshtein Dmitry <letuver@yahoo.com>
+Date:   Thu Mar 3 22:25:02 2022 +0200
+
+    init project
